@@ -1,3 +1,0 @@
-pyinstaller --hidden-import babel.numbers --windowed --onefile index.py
-
-pyinstaller --hidden-import babel.numbers --windowed --onefile Principal.py
